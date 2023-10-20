@@ -47,7 +47,7 @@ Copy code
 npm 
 start
 
-Access the application on [http://localhost:3000.](https://sufyanjami.github.io/travel-list)
+Access the application on https://sufyanjami.github.io/travel-list
 
 Contribute <a name="contribute"></a>
 If you'd like to contribute to the project, please fork the repository, make your changes and open a pull request to propose your changes.
