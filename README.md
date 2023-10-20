@@ -1,11 +1,3 @@
-Table of Contents
-Overview
-Technologies and Concepts Used
-Features
-Getting Started
-Contribute
-License
-Overview <a name="overview"></a>
 The Travel List application is a handy tool that allows you to prepare for your upcoming travels with ease. From creating an extensive packing list to marking items as packed, this application will ensure you never forget a thing before setting off on your journey.
 
 Technologies and Concepts Used <a name="technologies-and-concepts-used"></a>
@@ -23,6 +15,8 @@ Features <a name="features"></a>
 Add Items: Users can seamlessly add items to their travel list.
 
 Remove Items: Made a mistake or packed an item? No worries, you can easily remove it from the list.
+
+Clear list: Allows user to clear the list, even has a confirmation pop up so user doesn't make a mistake clearing entire list.
 
 Check off Items: As you pack, simply check off the items from your list ensuring everything is packed before you leave.
 
