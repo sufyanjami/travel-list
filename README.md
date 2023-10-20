@@ -51,6 +51,3 @@ Access the application on https://sufyanjami.github.io/travel-list
 
 Contribute <a name="contribute"></a>
 If you'd like to contribute to the project, please fork the repository, make your changes and open a pull request to propose your changes.
-
-License <a name="license"></a>
-This project is licensed under the MIT License. See the LICENSE file for details.
